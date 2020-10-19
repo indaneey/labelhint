@@ -9,7 +9,7 @@ Syntax
 ### Import `labelHint()` from label-hint
 
 ```js
-import { labelHint } from 'label-hint';
+import { labelHint } from '@indaneey/label-hint';
 ```
 
 Examples
@@ -111,6 +111,7 @@ Installation
 
 ```bash
 # Basic Node.JS installation
-npm install label-hint --save
+npm install @indaneey/label-hint --save
 ```
+
 # labelhint
