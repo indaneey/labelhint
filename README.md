@@ -113,3 +113,4 @@ Installation
 # Basic Node.JS installation
 npm install label-hint --save
 ```
+# labelhint
