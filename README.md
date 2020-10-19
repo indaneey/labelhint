@@ -5,6 +5,7 @@ labelHint.js is used to label your webpage elements in an easy way. It the solut
 
 Syntax
 ------
+
 ### Import `labelHint()` from label-hint
 
 ```js

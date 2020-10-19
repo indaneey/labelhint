@@ -1,0 +1,28 @@
+{
+  "name": "label-hint",
+  "version": "1.0.0",
+  "description": "Labelling your HTML elements in an easy way.",
+  "main": "./dist/labelHint.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "label",
+    "hint",
+    "helptip"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indaneey/labelhint.git"
+  },
+  "author": "Indaneey Design <indaneeey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.0",
+    "@babel/preset-env": "^7.12.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
