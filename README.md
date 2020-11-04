@@ -3,6 +3,14 @@ labelHint.js
 
 labelHint.js is used to label your webpage elements in an easy way. It the solution to help a user to quickly get hint on webpage elements. And is perfect for web page that need more explain to user. It has more cross-browser compatiblity.
 
+PREVIEW
+------
+<img src="/assets/preview.gif" alt="label preview image"/>
+
+### Freedom to customize your tooltip the way you want! 
+
+<img src="/assets/previewtwo.gif" alt="label preview image"/>
+
 Syntax
 ------
 
