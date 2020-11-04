@@ -7,7 +7,7 @@ PREVIEW
 ------
 <img src="/assets/preview.gif" alt="label preview image"/>
 
-### Freedom to customize your tooltip the way you want! 
+Freedom to customize your tooltip the way you want! 
 
 <img src="/assets/previewtwo.gif" alt="label preview image"/>
 
